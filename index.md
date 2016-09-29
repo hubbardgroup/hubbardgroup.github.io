@@ -1,8 +1,8 @@
 ---
-layout: frontpage
-title: Nima Hejazi
+layout: page
+title: Alan Hubbard's Research Group
 tagline:
-description: The personal website of Nima Hejazi, Biostatistian & Data Scientist
+description: The research/lab webpages of Alan Hubbard
 keywords: biostatistics, causal inference
 ---
 
