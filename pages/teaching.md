@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 tagline:
 description: Alan Hubbard's teaching materials
 ---
@@ -17,8 +17,7 @@ description: Alan Hubbard's teaching materials
 
 ### <a name="current"></a>current courses
 
-#### [Public Health 142: Introduction to Probability and Statistics in Biology
-and Public Health (Fall 2016)]({{BASE_PATH}})
+#### [Public Health 142: Introduction to Probability and Statistics (Fall 2016)]({{BASE_PATH}})
 
 #### [Public Health 242C: Longitudinal Data Analysis (Fall 2016)]({{BASE_PATH}}/)
 

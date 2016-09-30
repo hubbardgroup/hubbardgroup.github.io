@@ -1,6 +1,6 @@
 ---
 layout: page
-title: talks
+title: Talks
 tagline:
 description: Alan Hubbard's talks
 ---

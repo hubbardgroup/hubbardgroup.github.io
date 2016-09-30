@@ -1,8 +1,8 @@
 ---
 layout: page
-title: software
+title: Software
 tagline:
-description: Alan Hubbard et al.'s software contributions
+description: Alan Hubbard's software contributions
 ---
 
 #### <a name="packagesR"></a>R packages
