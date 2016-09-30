@@ -10,7 +10,7 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Alan Hubbard
-author :
+author : Alan Hubbard
   name : Alan Hubbard
   email : hubbard@stat.berkeley.edu
 
@@ -21,7 +21,7 @@ production_url : https://hubbardgroup.github.io
 markdown: kramdown
 kramdown:
   input: GFM  # Enable GitHub Flavored Markdown (fenced code blocks)
-  hard_wrap: true
+  hard_wrap: false
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
