@@ -1,6 +1,6 @@
-# Alan Hubbard's research website
+# Alan Hubbard's academic website
 
-> Research and lab webpages, using [GitHub Pages](https://pages.github.com/).
+> Research website, using [GitHub Pages](https://pages.github.com/).
 
 ---
 
