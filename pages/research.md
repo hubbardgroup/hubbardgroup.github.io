@@ -2,9 +2,8 @@
 layout: page
 title: Research
 tagline:
-description: Alan Hubbard's research interests
+description: The Hubbard Group's research interests
 ---
-
 
 ### Targeted Minimum Loss-Based Estimation
 

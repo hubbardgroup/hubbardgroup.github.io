@@ -1,4 +1,4 @@
-# Alan Hubbard's academic website
+# The Hubbard Group's research website
 
 > Research website, using [GitHub Pages](https://pages.github.com/).
 
