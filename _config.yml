@@ -23,6 +23,9 @@ kramdown:
   input: GFM  # Enable GitHub Flavored Markdown (fenced code blocks)
   hard_wrap: false
 
+# needed for travis-ci build
+exclude: [vendor]
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
