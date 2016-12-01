@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hubbardgroup/hubbardgroup.github.io.svg?branch=master)](https://travis-ci.org/hubbardgroup/hubbardgroup.github.io)
+
 # The Hubbard Group's research website
 
 > Research website, using [GitHub Pages](https://pages.github.com/).
