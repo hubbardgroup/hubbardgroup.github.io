@@ -1,21 +1,15 @@
-[![Build Status](https://travis-ci.org/hubbardgroup/hubbardgroup.github.io.svg?branch=master)](https://travis-ci.org/hubbardgroup/hubbardgroup.github.io)
-
 # The Hubbard Group's research website
 
-> Research website, using [GitHub Pages](https://pages.github.com/).
+[![Build Status](https://travis-ci.org/hubbardgroup/hubbardgroup.github.io.svg?branch=master)](https://travis-ci.org/hubbardgroup/hubbardgroup.github.io)
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
+> Lab group research website, using [GitHub Pages](https://pages.github.com/).
 
 ---
 
 ## License
 
-&copy; 2016-present [Alan Hubbard]().
+&copy; 2016-present [Alan Hubbard](https://ahubb40.github.io)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
-alt="Creative Commons License"
-style="border-width:0"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
-Content under a <a rel="license"
-href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-See file `LICENSE.md` or follow the link above for a human-readable version.
+The contents of this repository are distributed under the MIT license. See file
+`LICENSE` for details.
