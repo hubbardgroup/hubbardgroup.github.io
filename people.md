@@ -7,7 +7,7 @@ show-avatar: false
 
 ### Graduate Students
 
-__Wilson (Weixin) Cai__<br/>
+<a name="wilson-cai"></a>__Wilson (Weixin) Cai__<br/>
 _Biography:_ Wilson is a second-year graduate student in the Division of
 Biostatistics at UC Berkeley and is jointly advised by Profs. Alan Hubbard and
 Mark van der Laan. His research interests lie in statistical machine learning
@@ -15,7 +15,7 @@ and causal inference. Prior to Berkeley, he obtained a Bachelor's (B.Sc.)
 degree in Statistics from the Univeristy of Hong Kong.<br/>
 _GitHub:_ [wilsoncai1992](https://github.com/wilsoncai1992)<br/>
 
-__Jeremy Coyle__<br/>
+<a name="jeremy-coyle"></a>__Jeremy Coyle__<br/>
 _Biography:_ Jeremy Coyle is a Ph.D. candidate of Biostatistics at UC Berkeley.
 His research interests include cross-validation, resampling estimators, and
 optimal treatment parameters. Jeremy has applied machine learning methods to a
@@ -24,14 +24,14 @@ for victims of traumatic injury, and the translation of raw sensor data into
 meaningful estimates.<br/>
 _GitHub:_ [jeremyrcoyle](https://github.com/jeremyrcoyle)<br/>
 
-__Inna Gerlovina__<br/>
+<a name="inna-gerlovina"></a>__Inna Gerlovina__<br/>
 _Biography:_ Inna is a long time resident of Berkeley, CA, and a native of
 St-Petersburg, Russia, where she studied at the Conservatory of Music before
 turning to Statistics. She work on small sample inference and higher-order
 approximations (Edgeworth expansions, bootstrap).<br/>
 _GitHub:_ [innager](https://github.com/innager)<br/>
 
-__Nima Hejazi__<br/>
+<a name="nima-hejazi"></a>__Nima Hejazi__<br/>
 _Biography:_ Nima is a graduate student in the Division of Biostatistics at UC
 Berkeley, where he works jointly with Profs. Alan Hubbard and Mark van der
 Laan. His research combines aspects of causal inference, statistical machine
@@ -42,7 +42,7 @@ _GitHub:_ [nhejazi](https://github.com/nhejazi)<br/>
 _Twitter:_ [@nshejazi](https://twitter.com/nshejazi)<br/>
 _Homepage:_ [nimahejazi.org](http://nimahejazi.org)<br/>
 
-__Chris J. Kennedy__<br/>
+<a name="chris-kennedy"></a>__Chris J. Kennedy__<br/>
 _Biography:_ Chris is a third-year Ph.D. student with a focus on RCTs, targeted
 machine learning, and casual inference applied to precision medicine,
 particularly trauma. He works with Alan on the `varImpact` R package, health
@@ -54,7 +54,7 @@ _GitHub:_ [ck37](https://github.com/ck37)<br/>
 _Twitter:_ [@c3K](https://twitter.com/c3k)<br/>
 _Homepage:_ [ck37.com](http://ck37.com)<br/>
 
-__Jonathan Levy__<br/>
+<a name="jonathan-levy"></a>__Jonathan Levy__<br/>
 _Biography:_ Jonathan is a musician returning to his mathematical roots,
 pursuing a renaissance-view of marrying the endeavors of humanity in the face
 of practical specialization. His interests within biostatistics revolve around
@@ -66,7 +66,7 @@ promoted establishment views.<br/>
 _GitHub:_ [jlstiles](https://github.com/jlstiles)<br/>
 _Homepage:_ [jlstiles.com](http://www.jlstiles.com)<br/>
 
-__Ivana Malenica__<br/>
+<a name="ivana-malenica"></a>__Ivana Malenica__<br/>
 _Biography:_ Ivana is a second-year graduate student in the Division of
 Biostatistics at UC Berkeley. Broadly, her research interests span causal
 inference, high-dimensional data, machine learning, and semiparametric
@@ -75,7 +75,7 @@ _GitHub:_ [podTockom](https://github.com/podTockom)<br/>
 _Google Scholar:_
 [profile](https://scholar.google.com/citations?user=kysY8qoAAAAJ&hl=en)<br/>
 
-__Sara Moore__<br/>
+<a name="sara-moore"></a>__Sara Moore__<br/>
 _Biography:_ Sara is a Biostatistics Ph.D. candidate in her final year of study
 at UC Berkeley. She received her B.A. in Computer Science and Psychology from
 Duke University and subsequently worked as a researcher in brain imaging labs
@@ -89,7 +89,7 @@ _Twitter:_ [@sara_e_moore](https://twitter.com/sara_e_moore)<br/>
 _LinkedIn:_ [saraemoore](https://www.linkedin.com/in/saraemoore)<br/>
 _Homepage:_ [saraemoore.com](http://www.saraemoore.com)<br/>
 
-__Andre Kurepa Waschka__<br/>
+<a name="andre-waschka"></a>__Andre Kurepa Waschka__<br/>
 _Biography:_ Andre is a fourth-year Ph.D. student in Statistics at UC Berkeley.
 He finished his M.A. in Biostatistics under Dr. Hubbard in 2016. He graduated
 from  North Carolina State University with a B.S. in Applied Mathematics, B.S.
@@ -100,7 +100,7 @@ _GitHub:_ [akwaschka](https://github.com/akwaschka)<br/>
 
 ### Collaborators
 
-__Prof. Romain Pirracchio__<br/>
+<a name="romain-pirracchio"></a>__Prof. Romain Pirracchio__<br/>
 _Biography:_ Prof. Pirracchio is a French M.D., Ph.D., hailing from Paris. He
 obtained his M.D. in 2003, with a specialization in Anesthesiology and Critical
 Care Medicine. In 2008, he obtained a Master's degree in Medical Research
@@ -125,14 +125,14 @@ _Homepage_: [romainpirracchio.org](http://www.romainpirracchio.org)<br/>
 
 ### Administrative Contacts
 
-__Lucas Carlton__<br/>
+<a name="lucas-carlton"></a>__Lucas Carlton__<br/>
 Administrative and Research Assistant<br/>
 Colford-Hubbard Research Group<br/>
 775 University Hall<br/>
 Berkeley, CA 94720<br/>
 Phone: 510-643-0238<br/>
 
-__Melanie Gendell__<br/>
+<a name="melanie-gendell"></a>___Melanie Gendell__<br/>
 Administrative Manager<br/>
 Colford-Hubbard Research Group<br/>
 787 University Hall<br/>
