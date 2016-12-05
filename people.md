@@ -7,31 +7,31 @@ show-avatar: false
 
 ### Graduate Students
 
-__Wilson (Weixin) Cai__
+__Wilson (Weixin) Cai__<br/>
 _Biography:_ Wilson is a second-year graduate student in the Division of
 Biostatistics at UC Berkeley and is jointly advised by Profs. Alan Hubbard and
 Mark van der Laan. His research interests lie in statistical machine learning
 and causal inference. Prior to Berkeley, he obtained a Bachelor's (B.Sc.)
-degree in Statistics from the Univeristy of Hong Kong.
-_GitHub:_ [wilsoncai1992](https://github.com/wilsoncai1992)
+degree in Statistics from the Univeristy of Hong Kong.<br/>
+_GitHub:_ [wilsoncai1992](https://github.com/wilsoncai1992)<br/>
 
-__Jeremy Coyle__
+__Jeremy Coyle__<br/>
 _Biography:_ Jeremy Coyle is a Ph.D. candidate of Biostatistics at UC Berkeley.
 His research interests include cross-validation, resampling estimators, and
 optimal treatment parameters. Jeremy has applied machine learning methods to a
 variety of applications, including stove use monitoring, treatment assignment
 for victims of traumatic injury, and the translation of raw sensor data into
-meaningful estimates.
-_GitHub:_ [jeremyrcoyle](https://github.com/jeremyrcoyle)
+meaningful estimates.<br/>
+_GitHub:_ [jeremyrcoyle](https://github.com/jeremyrcoyle)<br/>
 
-__Inna Gerlovina__
+__Inna Gerlovina__<br/>
 _Biography:_ Inna is a long time resident of Berkeley, CA, and a native of
 St-Petersburg, Russia, where she studied at the Conservatory of Music before
 turning to Statistics. She work on small sample inference and higher-order
-approximations (Edgeworth expansions, bootstrap).
-_GitHub:_ [innager](https://github.com/innager)
+approximations (Edgeworth expansions, bootstrap).<br/>
+_GitHub:_ [innager](https://github.com/innager)<br/>
 
-__Nima Hejazi__
+__Nima Hejazi__<br/>
 _Biography:_ Nima is a graduate student in the Division of Biostatistics at UC
 Berkeley, where he works jointly with Profs. Alan Hubbard and Mark van der
 Laan. His research combines aspects of causal inference, statistical machine
@@ -39,24 +39,24 @@ learning, and nonparametric statistics, with a focus on the development of
 robust methods for addressing inference problems arising in precision medicine,
 computational biology, and clinical trials. Prior to graduate school, Nima
 completed his undergraduate degree at the UC Berkeley, where he completed a
-triple major in Molecular & Cell Biology, Psychology, and Public Health.
-_GitHub:_ [nhejazi](https://github.com/nhejazi)
-_Twitter:_ [@nshejazi](https://twitter.com/nshejazi)
-_Homepage:_ [nimahejazi.org](http://nimahejazi.org)
+triple major in Molecular & Cell Biology, Psychology, and Public Health.<br/>
+_GitHub:_ [nhejazi](https://github.com/nhejazi)<br/>
+_Twitter:_ [@nshejazi](https://twitter.com/nshejazi)<br/>
+_Homepage:_ [nimahejazi.org](http://nimahejazi.org)<br/>
 
-__Chris J. Kennedy__
+__Chris J. Kennedy__<br/>
 _Biography:_ Chris is a third-year Ph.D. student with a focus on RCTs, targeted
 machine learning, and casual inference applied to precision medicine,
 particularly trauma. He works with Alan on the `varImpact` R package, health
 prediction for trauma patients (e.g. traumatic brain injury), and analysis of
 biometric waveform data (blood pressure, ECG, etc.). He also co-maintains the
 `SuperLearner` R package and focuses on high performance computing (Savio,
-Amazon EC2) for targeted learning.
-_GitHub:_ [ck37](https://github.com/ck37)
-_Twitter:_ [@c3K](https://twitter.com/c3k)
-_Homepage:_ [ck37.com](http://ck37.com)
+Amazon EC2) for targeted learning.<br/>
+_GitHub:_ [ck37](https://github.com/ck37)<br/>
+_Twitter:_ [@c3K](https://twitter.com/c3k)<br/>
+_Homepage:_ [ck37.com](http://ck37.com)<br/>
 
-__Jonathan Levy__
+__Jonathan Levy__<br/>
 _Biography:_ Jonathan is a musician returning to his mathematical roots,
 pursuing a renaissance-view of marrying the endeavors of humanity in the face
 of practical specialization. His interests within biostatistics revolve around
@@ -64,11 +64,11 @@ being an advocate for scientists who have critical questions and for those who
 need a voice from someone trained in the field of statistics, who will look at
 the science and literature as well as issues not related to science, to shed
 light on health issues, rather than simply taking refuge in the most highly
-promoted establishment views.
-_GitHub:_ [jlstiles](https://github.com/jlstiles)
-_Homepage:_ [jlstiles.com](http://www.jlstiles.com)
+promoted establishment views.<br/>
+_GitHub:_ [jlstiles](https://github.com/jlstiles)<br/>
+_Homepage:_ [jlstiles.com](http://www.jlstiles.com)<br/>
 
-__Sara Moore__
+__Sara Moore__<br/>
 _Biography:_ Sara is a Biostatistics Ph.D. candidate in her final year of study
 at UC Berkeley. She received her B.A. in Computer Science and Psychology from
 Duke University and subsequently worked as a researcher in brain imaging labs
@@ -76,24 +76,24 @@ at Duke and Emory Universities. Her current research focuses on machine
 learning methodology for the prediction of adverse health-related outcomes in
 trauma care patients, prediction of mass trauma events using social media data,
 data visualization, and statistical software package development. She also
-currently works as a consultant at Genentech in South San Francisco.
-_GitHub:_ [saraemoore](https://github.com/saraemoore)
-_Twitter:_ [@sara_e_moore](https://twitter.com/sara_e_moore)
-_LinkedIn:_ [saraemoore](https://www.linkedin.com/in/saraemoore)
-_Homepage:_ [saraemoore.com](http://www.saraemoore.com)
+currently works as a consultant at Genentech in South San Francisco.<br/>
+_GitHub:_ [saraemoore](https://github.com/saraemoore)<br/>
+_Twitter:_ [@sara_e_moore](https://twitter.com/sara_e_moore)<br/>
+_LinkedIn:_ [saraemoore](https://www.linkedin.com/in/saraemoore)<br/>
+_Homepage:_ [saraemoore.com](http://www.saraemoore.com)<br/>
 
-__Andre Kurepa Waschka__
+__Andre Kurepa Waschka__<br/>
 _Biography:_ Andre is a fourth-year Ph.D. student in Statistics at UC Berkeley.
 He finished his M.A. in Biostatistics under Dr. Hubbard in 2016. He graduated
 from  North Carolina State University with a B.S. in Applied Mathematics, B.S.
-in Economics, and a minor in Statistics.
-_GitHub:_ [akwaschka](https://github.com/akwaschka)
+in Economics, and a minor in Statistics.<br/>
+_GitHub:_ [akwaschka](https://github.com/akwaschka)<br/>
 
 ---
 
 ### Collaborators
 
-__Prof. Romain Pirracchio__
+__Prof. Romain Pirracchio__<br/>
 _Biography:_ Prof. Pirracchio is a French M.D., Ph.D., hailing from Paris. He
 obtained his M.D. in 2003, with a specialization in Anesthesiology and Critical
 Care Medicine. In 2008, he obtained a Master's degree in Medical Research
@@ -111,23 +111,23 @@ San Francisco General Hospital & Trauma Center (UCSF) as Associate Professor.
 Since September 2016, he has been at the European Hospital Geroges Pompidou in
 Paris, serving as Full Professor and Vice Chair for ICUs. He is also Adjunct
 Associate Professor at UCSF and affiliate to the Division of Biostatistics at
-UC Berkeley.
-_Homepage_: [romainpirracchio.org](www.romainpirracchio.org)
+UC Berkeley.<br/>
+_Homepage_: [romainpirracchio.org](www.romainpirracchio.org)<br/>
 
 ---
 
 ### Administrative Contacts
 
-__Lucas Carlton__
-Administrative and Research Assistant
-Colford-Hubbard Research Group
-775 University Hall
-Berkeley, CA 94720
-Phone: 510-643-0238
+__Lucas Carlton__<br/>
+Administrative and Research Assistant<br/>
+Colford-Hubbard Research Group<br/>
+775 University Hall<br/>
+Berkeley, CA 94720<br/>
+Phone: 510-643-0238<br/>
 
-__Melanie Gendell__
-Administrative Manager
-Colford-Hubbard Research Group
-787 University Hall
-Berkeley, Ca.  94720-7360
-510-643-5742
+__Melanie Gendell__<br/>
+Administrative Manager<br/>
+Colford-Hubbard Research Group<br/>
+787 University Hall<br/>
+Berkeley, CA  94720<br/>
+Phone: 510-643-5742<br/>

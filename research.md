@@ -1,6 +1,6 @@
 ---
 title: Research
-subtitle: Research Interests and Current Projects of the Hubbard Group
+subtitle: Current Research of the Hubbard Group
 layout: page
 show-avatar: false
 ---
