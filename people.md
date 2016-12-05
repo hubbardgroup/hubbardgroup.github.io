@@ -37,9 +37,7 @@ Berkeley, where he works jointly with Profs. Alan Hubbard and Mark van der
 Laan. His research combines aspects of causal inference, statistical machine
 learning, and nonparametric statistics, with a focus on the development of
 robust methods for addressing inference problems arising in precision medicine,
-computational biology, and clinical trials. Prior to graduate school, Nima
-completed his undergraduate degree at the UC Berkeley, where he completed a
-triple major in Molecular & Cell Biology, Psychology, and Public Health.<br/>
+computational biology, and clinical trials.<br/>
 _GitHub:_ [nhejazi](https://github.com/nhejazi)<br/>
 _Twitter:_ [@nshejazi](https://twitter.com/nshejazi)<br/>
 _Homepage:_ [nimahejazi.org](http://nimahejazi.org)<br/>
@@ -67,6 +65,15 @@ light on health issues, rather than simply taking refuge in the most highly
 promoted establishment views.<br/>
 _GitHub:_ [jlstiles](https://github.com/jlstiles)<br/>
 _Homepage:_ [jlstiles.com](http://www.jlstiles.com)<br/>
+
+__Ivana Malenica__<br/>
+_Biography:_ Ivana is a second-year graduate student in the Division of
+Biostatistics at UC Berkeley. Broadly, her research interests span causal
+inference, high-dimensional data, machine learning, and semiparametric
+theory.<br/>
+_GitHub:_ [podTockom](https://github.com/podTockom)<br/>
+_Google Scholar:_
+[profile](https://scholar.google.com/citations?user=kysY8qoAAAAJ&hl=en)<br/>
 
 __Sara Moore__<br/>
 _Biography:_ Sara is a Biostatistics Ph.D. candidate in her final year of study
