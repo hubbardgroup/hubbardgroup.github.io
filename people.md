@@ -112,7 +112,7 @@ Since September 2016, he has been at the European Hospital Geroges Pompidou in
 Paris, serving as Full Professor and Vice Chair for ICUs. He is also Adjunct
 Associate Professor at UCSF and affiliate to the Division of Biostatistics at
 UC Berkeley.<br/>
-_Homepage_: [romainpirracchio.org](www.romainpirracchio.org)<br/>
+_Homepage_: [romainpirracchio.org](http://www.romainpirracchio.org)<br/>
 
 ---
 
