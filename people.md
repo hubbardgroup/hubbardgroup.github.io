@@ -132,7 +132,7 @@ Colford-Hubbard Research Group<br/>
 Berkeley, CA 94720<br/>
 Phone: 510-643-0238<br/>
 
-<a name="melanie-gendell"></a>___Melanie Gendell__<br/>
+<a name="melanie-gendell"></a>__Melanie Gendell__<br/>
 Administrative Manager<br/>
 Colford-Hubbard Research Group<br/>
 787 University Hall<br/>
