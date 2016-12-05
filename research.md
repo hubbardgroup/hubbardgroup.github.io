@@ -1,6 +1,6 @@
 ---
 title: Research
-subtitle: The Hubbard Group's research interests
+subtitle: Research Interests and Current Projects of the Hubbard Group
 layout: page
 show-avatar: false
 ---
@@ -11,5 +11,3 @@ show-avatar: false
 ---
 
 ### Epidemiology and Computational Biology
-
-

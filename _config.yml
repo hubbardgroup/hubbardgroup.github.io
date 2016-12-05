@@ -31,11 +31,11 @@ avatar: "/img/alanhubbard.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Alan E. Hubbard
-  email: "hubbard@stat.berkeley.edu"
-  github: ahubb40    # eg. daattali
-  twitter: yourname   # eg. daattali
-  linkedin: yourname  # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
+  email: "hubbard@berkeley.edu"
+  github: hubbardgroup   # e.g. daattali
+  twitter: yourname   # e.g. daattali
+  linkedin: yourname  # e.g. daattali
+  stackoverflow: yourlink  # e.g. "3943160/daattali"
 
 # Select which links to show in the footer
 footer-links-active:
