@@ -27,7 +27,7 @@ _GitHub:_ [jeremyrcoyle](https://github.com/jeremyrcoyle)<br/>
 <a name="inna-gerlovina"></a>__Inna Gerlovina__<br/>
 _Biography:_ Inna is a long time resident of Berkeley, CA, and a native of
 St-Petersburg, Russia, where she studied at the Conservatory of Music before
-turning to Statistics. She work on small sample inference and higher-order
+turning to Statistics. She works on small sample inference and higher-order
 approximations (Edgeworth expansions, bootstrap).<br/>
 _GitHub:_ [innager](https://github.com/innager)<br/>
 
@@ -43,13 +43,13 @@ _Twitter:_ [@nshejazi](https://twitter.com/nshejazi)<br/>
 _Homepage:_ [nimahejazi.org](http://nimahejazi.org)<br/>
 
 <a name="chris-kennedy"></a>__Chris J. Kennedy__<br/>
-_Biography:_ Chris is a third-year Ph.D. student with a focus on RCTs, targeted
+_Biography:_ Chris is interested in RCTs, targeted
 machine learning, and casual inference applied to precision medicine,
-particularly trauma. He works with Alan on the `varImpact` R package, health
+particularly trauma. He works with Alan on the [varImpact R package](http://github.com/ck37/varImpact), health
 prediction for trauma patients (e.g. traumatic brain injury), and analysis of
-biometric waveform data (blood pressure, ECG, etc.). He also co-maintains the
-`SuperLearner` R package and focuses on high performance computing (Savio,
-Amazon EC2) for targeted learning.<br/>
+biometric waveform data. He also co-maintains the
+[SuperLearner R package](http://github.com/ecpolley/SuperLearner), employs high performance computing (Savio cluster,
+Amazon EC2), and is a [consultant \& instructor for D-Lab](http://dlab.berkeley.edu/consultation/chris-kennedy).<br/>
 _GitHub:_ [ck37](https://github.com/ck37)<br/>
 _Twitter:_ [@c3K](https://twitter.com/c3k)<br/>
 _Homepage:_ [ck37.com](http://ck37.com)<br/>
