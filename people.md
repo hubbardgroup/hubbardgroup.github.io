@@ -49,7 +49,7 @@ particularly trauma. He works with Alan on the [varImpact R package](http://gith
 prediction for trauma patients (e.g. traumatic brain injury), and analysis of
 biometric waveform data. He also co-maintains the
 [SuperLearner R package](http://github.com/ecpolley/SuperLearner), employs high performance computing (Savio cluster,
-Amazon EC2), and is a [consultant \& instructor for D-Lab](http://dlab.berkeley.edu/consultation/chris-kennedy).<br/>
+Amazon EC2), and is a [D-Lab consultant \& instructor](http://dlab.berkeley.edu/consultation/chris-kennedy).<br/>
 _GitHub:_ [ck37](https://github.com/ck37)<br/>
 _Twitter:_ [@c3K](https://twitter.com/c3k)<br/>
 _Homepage:_ [ck37.com](http://ck37.com)<br/>
