@@ -44,7 +44,7 @@ _Homepage:_ [nimahejazi.org](http://nimahejazi.org)<br/>
 
 <a name="chris-kennedy"></a>__Chris J. Kennedy__<br/>
 _Biography:_ Chris is interested in RCTs, targeted
-machine learning, and casual inference applied to precision medicine,
+machine learning, and causal inference applied to precision medicine,
 particularly trauma. He works with Alan on the [varImpact R package](http://github.com/ck37/varImpact), health
 prediction for trauma patients (e.g. traumatic brain injury), and analysis of
 biometric waveform data. He also co-maintains the
