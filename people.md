@@ -16,7 +16,7 @@ degree in Statistics from the Univeristy of Hong Kong.<br/>
 _GitHub:_ [wilsoncai1992](https://github.com/wilsoncai1992)<br/>
 
 <a name="jeremy-coyle"></a>__Jeremy Coyle__<br/>
-_Biography:_ Jeremy Coyle is a Ph.D. candidate of Biostatistics at UC Berkeley.
+_Biography:_ Jeremy Coyle is a Ph.D. candidate in Biostatistics at UC Berkeley.
 His research interests include cross-validation, resampling estimators, and
 optimal treatment parameters. Jeremy has applied machine learning methods to a
 variety of applications, including stove use monitoring, treatment assignment
@@ -27,20 +27,24 @@ _GitHub:_ [jeremyrcoyle](https://github.com/jeremyrcoyle)<br/>
 <a name="inna-gerlovina"></a>__Inna Gerlovina__<br/>
 _Biography:_ Inna is a long time resident of Berkeley, CA, and a native of
 St-Petersburg, Russia, where she studied at the Conservatory of Music before
-turning to Statistics. She works on small sample inference and higher-order
-approximations (Edgeworth expansions, bootstrap).<br/>
+turning to Statistics. She is currently a postdoctoral scholar in the Division
+of Biostatistics at UC Berkeley, from which she graduated with a Ph.D. in
+Biostatistics in December 2016. She works on small sample inference and
+higher-order approximations (Edgeworth expansions, bootstrap).<br/>
 _GitHub:_ [innager](https://github.com/innager)<br/>
 
 <a name="nima-hejazi"></a>__Nima Hejazi__<br/>
 _Biography:_ Nima is a graduate student in the Division of Biostatistics at UC
-Berkeley, where he works jointly with Profs. Alan Hubbard and Mark van der
-Laan. His research combines aspects of causal inference, statistical machine
-learning, and nonparametric statistics, with a focus on the development of
-robust methods for addressing inference problems arising in precision medicine,
-computational biology, and clinical trials.<br/>
+Berkeley, where he works jointly with Profs. Alan Hubbard and [Mark van der
+Laan](https://www.stat.berkeley.edu/~laan). His research combines aspects of
+causal inference, statistical machine learning, and nonparametric statistics,
+with a focus on the development of robust methods for addressing inference
+problems arising in precision medicine, computational biology, survival
+analysis, and clinical trials.<br/>
 _GitHub:_ [nhejazi](https://github.com/nhejazi)<br/>
 _Twitter:_ [@nshejazi](https://twitter.com/nshejazi)<br/>
 _Homepage:_ [nimahejazi.org](http://nimahejazi.org)<br/>
+_Departmental:_ [stat.berkeley.edu/~nhejazi](https://www.stat.berkeley.edu/~nhejazi/)<br/>
 
 <a name="chris-kennedy"></a>__Chris J. Kennedy__<br/>
 _Biography:_ Chris is interested in RCTs, targeted
