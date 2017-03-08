@@ -53,7 +53,7 @@ particularly trauma. He works with Alan on the [varImpact R package](http://gith
 prediction for trauma patients (e.g. traumatic brain injury), and analysis of
 biometric waveform data. He also co-maintains the
 [SuperLearner R package](http://github.com/ecpolley/SuperLearner), employs high performance computing (Savio cluster,
-Amazon EC2), and is a [D-Lab consultant \& instructor](http://dlab.berkeley.edu/consultation/chris-kennedy).<br/>
+Amazon EC2), and is a [D-Lab consultant & instructor](http://dlab.berkeley.edu/consultation/chris-kennedy).<br/>
 _GitHub:_ [ck37](https://github.com/ck37)<br/>
 _Twitter:_ [@c3K](https://twitter.com/c3k)<br/>
 _Homepage:_ [ck37.com](http://ck37.com)<br/>
@@ -90,7 +90,6 @@ data visualization, and statistical software package development. She also
 currently works as a consultant at Genentech in South San Francisco.<br/>
 _GitHub:_ [saraemoore](https://github.com/saraemoore)<br/>
 _Twitter:_ [@sara_e_moore](https://twitter.com/sara_e_moore)<br/>
-_LinkedIn:_ [saraemoore](https://www.linkedin.com/in/saraemoore)<br/>
 _Homepage:_ [saraemoore.com](http://www.saraemoore.com)<br/>
 
 <a name="andre-waschka"></a>__Andre Kurepa Waschka__<br/>
