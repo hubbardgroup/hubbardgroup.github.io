@@ -5,9 +5,4 @@ layout: page
 show-avatar: false
 ---
 
-### Targeted Minimum Loss-Based Estimation
-
-
----
-
-### Epidemiology and Computational Biology
+__under construction...please check back soon.__

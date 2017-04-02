@@ -5,6 +5,34 @@ layout: page
 show-avatar: false
 ---
 
+### Principal Investigator
+
+<a name="alan-hubbard"></a>__Prof. Alan Hubbard__<br/>
+_Biography:_ Dr. Alan Hubbard is Professor of Biostatistics and Head of the
+[Division of Biostatistics](https://www.stat.berkeley.edu/biostat/) at UC
+Berkeley. His current research interests include causal inference, variable
+importance analysis, statistical machine learning, estimation of and inference
+for data-adaptive statistical target parameters, and targeted minimum loss-based
+estimation. Research in his group is generally motivated by applications to
+problems in computational biology, epidemiology, and precision medicine.<br/>
+_GitHub:_ [ahubb40](https://github.com/ahubb40)<br/>
+_Homepage:_ [ahubb40.github.io](https://ahubb40.github.io)<br/>
+
+---
+
+### Post-Docs
+
+<a name="inna-gerlovina"></a>__Inna Gerlovina__<br/>
+_Biography:_ Inna is a long time resident of Berkeley, CA, and a native of
+St-Petersburg, Russia, where she studied at the Conservatory of Music before
+turning to Statistics. She is currently a postdoctoral scholar in the Division
+of Biostatistics at UC Berkeley, from which she graduated with a Ph.D. in
+Biostatistics in December 2016. She works on small sample inference and
+higher-order approximations (Edgeworth expansions, bootstrap).<br/>
+_GitHub:_ [innager](https://github.com/innager)<br/>
+
+---
+
 ### Graduate Students
 
 <a name="wilson-cai"></a>__Wilson (Weixin) Cai__<br/>
@@ -24,23 +52,14 @@ for victims of traumatic injury, and the translation of raw sensor data into
 meaningful estimates.<br/>
 _GitHub:_ [jeremyrcoyle](https://github.com/jeremyrcoyle)<br/>
 
-<a name="inna-gerlovina"></a>__Inna Gerlovina__<br/>
-_Biography:_ Inna is a long time resident of Berkeley, CA, and a native of
-St-Petersburg, Russia, where she studied at the Conservatory of Music before
-turning to Statistics. She is currently a postdoctoral scholar in the Division
-of Biostatistics at UC Berkeley, from which she graduated with a Ph.D. in
-Biostatistics in December 2016. She works on small sample inference and
-higher-order approximations (Edgeworth expansions, bootstrap).<br/>
-_GitHub:_ [innager](https://github.com/innager)<br/>
-
 <a name="nima-hejazi"></a>__Nima Hejazi__<br/>
-_Biography:_ Nima is a graduate student in the Division of Biostatistics at UC
-Berkeley, where he works jointly with Profs. Alan Hubbard and [Mark van der
-Laan](https://www.stat.berkeley.edu/~laan). His research combines aspects of
-causal inference, statistical machine learning, and nonparametric statistics,
-with a focus on the development of robust methods for addressing inference
-problems arising in precision medicine, computational biology, survival
-analysis, and clinical trials.<br/>
+_Biography:_ Nima is a Ph.D. student in the Division of Biostatistics, where he
+is jointly advised by works Profs. Alan Hubbard and [Mark van der
+Laan](https://www.stat.berkeley.edu/~laan). His research interests encompass
+varied aspects of causal inference and nonparametric statistics, with a focus on
+the development of robust methods for addressing inference problems arising in
+precision medicine, computational biology, survival analysis, and clinical
+trials.<br/>
 _GitHub:_ [nhejazi](https://github.com/nhejazi)<br/>
 _Twitter:_ [@nshejazi](https://twitter.com/nshejazi)<br/>
 _Homepage:_ [nimahejazi.org](http://nimahejazi.org)<br/>
