@@ -10,7 +10,7 @@ show-avatar: false
 <a name="alan-hubbard"></a>__Prof. Alan Hubbard__<br/>
 _Biography:_ Dr. Alan Hubbard is Professor of Biostatistics and Head of the
 [Division of Biostatistics](https://www.stat.berkeley.edu/biostat/) at UC
-Berkeley. His current research interests include causal inference, variable
+Berkeley.  Head of data analytics core at [link] UC Berkeley SuperFund His current research interests include causal inference, variable
 importance analysis, statistical machine learning, estimation of and inference
 for data-adaptive statistical target parameters, and targeted minimum loss-based
 estimation. Research in his group is generally motivated by applications to
@@ -114,7 +114,7 @@ from  North Carolina State University with a B.S. in Applied Mathematics, B.S.
 in Economics, and a minor in Statistics.<br/>
 _GitHub:_ [akwaschka](https://github.com/akwaschka)<br/>
 
-<a name="yue-you></a>__Yue You__<br />
+<a name="yue-you"></a>__Yue You__<br />
 
 ---
 
