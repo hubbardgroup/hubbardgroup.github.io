@@ -22,14 +22,14 @@ _Homepage:_ [ahubb40.github.io](https://ahubb40.github.io)<br/>
 
 ### Post-Docs
 
-<a name="inna-gerlovina"></a>__Inna Gerlovina__<br/>
-_Biography:_ Inna is a long time resident of Berkeley, CA, and a native of
-St-Petersburg, Russia, where she studied at the Conservatory of Music before
-turning to Statistics. She is currently a postdoctoral scholar in the Division
-of Biostatistics at UC Berkeley, from which she graduated with a Ph.D. in
-Biostatistics in December 2016. She works on small sample inference and
-higher-order approximations (Edgeworth expansions, bootstrap).<br/>
-_GitHub:_ [innager](https://github.com/innager)<br/>
+<a name="jeremy-coyle"></a>__Jeremy Coyle__<br/>
+_Biography:_ Jeremy Coyle is a postdoctoral scholar in Biostatistics at UC Berkeley.
+His research interests include cross-validation, resampling estimators, and
+optimal treatment parameters. Jeremy has applied machine learning methods to a
+variety of applications, including stove use monitoring, treatment assignment
+for victims of traumatic injury, and the translation of raw sensor data into
+meaningful estimates.<br/>
+_GitHub:_ [jeremyrcoyle](https://github.com/jeremyrcoyle)<br/>
 
 ---
 
@@ -43,14 +43,6 @@ and causal inference. Prior to Berkeley, he obtained a Bachelor's (B.Sc.)
 degree in Statistics from the Univeristy of Hong Kong.<br/>
 _GitHub:_ [wilsoncai1992](https://github.com/wilsoncai1992)<br/>
 
-<a name="jeremy-coyle"></a>__Jeremy Coyle__<br/>
-_Biography:_ Jeremy Coyle is a Ph.D. candidate in Biostatistics at UC Berkeley.
-His research interests include cross-validation, resampling estimators, and
-optimal treatment parameters. Jeremy has applied machine learning methods to a
-variety of applications, including stove use monitoring, treatment assignment
-for victims of traumatic injury, and the translation of raw sensor data into
-meaningful estimates.<br/>
-_GitHub:_ [jeremyrcoyle](https://github.com/jeremyrcoyle)<br/>
 
 <a name="nima-hejazi"></a>__Nima Hejazi__<br/>
 _Biography:_ Nima is a Ph.D. student in the Division of Biostatistics, where he
@@ -66,13 +58,15 @@ _Homepage:_ [nimahejazi.org](http://nimahejazi.org)<br/>
 _Departmental:_ [stat.berkeley.edu/~nhejazi](https://www.stat.berkeley.edu/~nhejazi/)<br/>
 
 <a name="chris-kennedy"></a>__Chris J. Kennedy__<br/>
-_Biography:_ Chris is interested in RCTs, targeted
-machine learning, and causal inference applied to precision medicine,
-particularly trauma. He works with Alan on the [varImpact R package](http://github.com/ck37/varImpact), health
-prediction for trauma patients (e.g. traumatic brain injury), and analysis of
-biometric waveform data. He also co-maintains the
-[SuperLearner R package](http://github.com/ecpolley/SuperLearner), employs high performance computing (Savio cluster,
-Amazon EC2), and is a [D-Lab consultant & instructor](http://dlab.berkeley.edu/consultation/chris-kennedy).<br/>
+_Biography:_ Chris is a biostatistics Ph.D. student with interests in RCTs,
+machine learning, and targeted causal inference applied to precision medicine,
+cancer, and public health. He works with Alan on the [varimpact R
+package](http://github.com/ck37/varimpact) and health prediction for trauma
+patients (e.g. traumatic brain injury). He also co-maintains the [SuperLearner R
+package](http://github.com/ecpolley/SuperLearner), employs high performance
+computing (Savio cluster, Amazon EC2, XSEDE), and is affiliated with
+[D-Lab](http://dlab.berkeley.edu/consultation/chris-kennedy), Berkeley Institute
+for Data Science, and the Integrative Cancer Research Group.<br/>
 _GitHub:_ [ck37](https://github.com/ck37)<br/>
 _Twitter:_ [@c3K](https://twitter.com/c3k)<br/>
 _Homepage:_ [ck37.com](http://ck37.com)<br/>
@@ -111,12 +105,16 @@ _GitHub:_ [saraemoore](https://github.com/saraemoore)<br/>
 _Twitter:_ [@sara_e_moore](https://twitter.com/sara_e_moore)<br/>
 _Homepage:_ [saraemoore.com](http://www.saraemoore.com)<br/>
 
+<a name="rachael-phillips"></a>__Rachael Phillips__<br />
+
 <a name="andre-waschka"></a>__Andre Kurepa Waschka__<br/>
 _Biography:_ Andre is a fourth-year Ph.D. student in Statistics at UC Berkeley.
 He finished his M.A. in Biostatistics under Dr. Hubbard in 2016. He graduated
 from  North Carolina State University with a B.S. in Applied Mathematics, B.S.
 in Economics, and a minor in Statistics.<br/>
 _GitHub:_ [akwaschka](https://github.com/akwaschka)<br/>
+
+<a name="yue-you></a>__Yue You__<br />
 
 ---
 
