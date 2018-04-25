@@ -8,13 +8,15 @@ show-avatar: false
 ### Principal Investigator
 
 <a name="alan-hubbard"></a>__Prof. Alan Hubbard__<br/>
-_Biography:_ Dr. Alan Hubbard is Professor of Biostatistics and Head of the
+_Biography:_ Dr. Alan Hubbard is Professor of Biostatistics, Head of the
 [Division of Biostatistics](https://www.stat.berkeley.edu/biostat/) at UC
-Berkeley.  Head of data analytics core at [link] UC Berkeley SuperFund His current research interests include causal inference, variable
-importance analysis, statistical machine learning, estimation of and inference
-for data-adaptive statistical target parameters, and targeted minimum loss-based
-estimation. Research in his group is generally motivated by applications to
-problems in computational biology, epidemiology, and precision medicine.<br/>
+Berkeley, and Head of data analytics core at [UC Berkeley
+SuperFund](http://superfund.berkeley.edu/). His current research interests
+include causal inference, variable importance analysis, statistical machine
+learning, estimation of and inference for data-adaptive statistical target
+parameters, and targeted minimum loss-based estimation. Research in his group is
+generally motivated by applications to problems in computational biology,
+epidemiology, and precision medicine.<br/>
 _GitHub:_ [ahubb40](https://github.com/ahubb40)<br/>
 _Homepage:_ [ahubb40.github.io](https://ahubb40.github.io)<br/>
 
