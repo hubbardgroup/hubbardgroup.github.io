@@ -107,7 +107,9 @@ _GitHub:_ [saraemoore](https://github.com/saraemoore)<br/>
 _Twitter:_ [@sara_e_moore](https://twitter.com/sara_e_moore)<br/>
 _Homepage:_ [saraemoore.com](http://www.saraemoore.com)<br/>
 
-<a name="rachael-phillips"></a>__Rachael Phillips__<br />
+<a name="rachael-phillips"></a>__Rachael V. Phillips__<br />
+Rachael is a Biostatistics Ph.D. student. She received an MA in Biostatistics in May 2018 from UC Berkeley. She graduated with Cum Laude honors from Texas Tech University in 2015, receiving a BS in Biology with a Chemistry minor and a BA in Mathematics with a Spanish minor. Rachael’s current research involves the application of machine learning methods, nonparametric statistical estimation, statistical computing, and causal inference to large biological datasets to solve real-world problems in human health, molecular biology, and meta-analysis. She is also passionate about online mediated education and responsible conduct in research. Rachael actively works with the UC Berkeley Superfund Research Center and the National Cancer Institute Division of Cancer Epidemiology and Genetics.<br/>
+_Github:_ [rachaelvphillips](https://github.com/rachaelvphillips)<br/>
 
 <a name="andre-waschka"></a>__Andre Kurepa Waschka__<br/>
 _Biography:_ Andre is a fourth-year Ph.D. student in Statistics at UC Berkeley.
