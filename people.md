@@ -119,6 +119,9 @@ in Economics, and a minor in Statistics.<br/>
 _GitHub:_ [akwaschka](https://github.com/akwaschka)<br/>
 
 <a name="yue-you"></a>__Yue You__<br />
+_Biography:_ Yue is a Biostatistics Ph.D. student at UC Berkeley where she is jointly advised by Prof. Alan Hubbard and Prof. Mark van der Laan. Her research interests are targeted learning, machine learning, causal inference and statistical computing. She received her M.A. in Biostatistics from UC Berkeley in 2018, and her B.S. in Statistics and B.A. in Chinese Language and Literature from Fudan University, China in 2016.<br/>
+_GitHub:_ [Yue-You](https://github.com/Yue-You)<br/>
+_LinkedIn:_ [yue-you](https://www.linkedin.com/in/yue-you/)<br/>
 
 ---
 
